@@ -1,4 +1,4 @@
-# Alan's Projects
+# Personal Projects & Jobs
 This Repository is to share some of the projects, work, knowledge and experience of Alan Figueroa (The Author). 
 
 ### Portfolio Black and Litterman
